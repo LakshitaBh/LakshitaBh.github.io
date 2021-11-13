@@ -7,3 +7,5 @@ Hi there. My name is Lakshita Bhargava and I am a Platform Engineer at HSBC. I m
 I've also been pursuing my interest in Machine Learning. My long term goal is to work at the intersection of Medicine and Machine Learning. 
 
 I completed my Bachelor's degree in Computer Science Engineering from Maharaja Agrasen Institute of Technology, India in 2019. 
+
+The reason for creating this blog is to share what I've been learning. 'Gyatso' is a tibetan name meaning **Ocean**
