@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book recommendations"
+title: "Book Recommendations"
 author: "Lakshita Bhargava"
 categories: books
 tags: [books]
