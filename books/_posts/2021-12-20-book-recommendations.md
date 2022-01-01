@@ -8,7 +8,7 @@ tags: [books]
 
 I thoroughly enjoy reading books. I've read books from various genres recently that I would absolutely rate 5-stars. Some of my recommendations in no particular order: 
 
-1. Thank you, Jeeves by P.G. Wodehouse (Genre: Humorous Fiction)
+1. <em>Thank you, Jeeves</em> by P.G. Wodehouse (Genre: Humorous Fiction)
 2. The Dutch House by Ann Patchett (Genre: Fiction)
 3. Educated by Tara Westover (Genre: Memoir)
 5. Homegoing by Yaa Gyasi (Genre: Historical Fiction)
